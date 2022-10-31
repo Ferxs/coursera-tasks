@@ -1,1 +1,2 @@
-# coursera-tasks remote_theme: pages-themes/midnight@v0.2.0
+# coursera-tasks 
+theme: midnight
